@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "ALX School"for school in ; do
+    $school
+done
